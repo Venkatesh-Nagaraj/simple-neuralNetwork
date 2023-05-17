@@ -1,8 +1,4 @@
 # simple-neuralNetwork
-Our NN will have a simple two-layer architecture. Input layer  𝑎[0]
-  will have 784 units corresponding to the 784 pixels in each 28x28 input image. A hidden layer  𝑎[1]
-  will have 10 units with ReLU activation, and finally our output layer  𝑎[2]
-  will have 10 units corresponding to the ten digit classes with softmax activation.
 
 Forward propagation
                        𝑍[1]=𝑊[1]𝑋+𝑏[1]
